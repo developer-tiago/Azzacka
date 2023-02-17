@@ -1,8 +1,8 @@
 ### Hi there, I'm Tiago Paulo 👋
 
 #### About
-I'm a Web developer. And, i'm studiyng web development at [Rocketseat](https://www.rocketseat.com.br/)🚀
-
+I'm a Web developer. And, i'm studiyng web development at [Rocketseat](https://www.rocketseat.com.br/)🚀.
+I love programming, technology and marketing 👨‍💻
 #### Current stack
 - ⚡️ Main language: `Javascript`
 - 🔐 Backend: `Node.js`
